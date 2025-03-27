@@ -15,5 +15,5 @@ func FindNb(m int) int {
 }
 
 func main() {
-	fmt.Println(FindNb(1071225)) // 45
+	fmt.Println(FindNb(1071225)) //  45
 }

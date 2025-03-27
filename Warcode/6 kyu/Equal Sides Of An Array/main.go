@@ -23,5 +23,5 @@ func FindEvenIndexx(nums []int) int {
 
 func main() {
 	arr := []int{1, 100, 50, -51, 1, 1}
-	fmt.Println(FindEvenIndexx(arr))
+	fmt.Println(FindEvenIndexx(arr)) // 1
 }

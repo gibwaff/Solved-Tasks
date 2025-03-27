@@ -25,5 +25,5 @@ func Solution(str string) []string {
 }
 
 func main() {
-	fmt.Println(Solution("abcde")) // ["ab", "cd", "e_"]
+	fmt.Println(Solution("abcde")) //  ["ab", "cd", "e_"]
 }

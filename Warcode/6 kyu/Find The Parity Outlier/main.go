@@ -34,5 +34,5 @@ func FindOutlier(integers []int) (res int) {
 }
 
 func main() {
-	fmt.Println(FindOutlier([]int{2, 6, 8, -10, 3})) // Output: 3
+	fmt.Println(FindOutlier([]int{2, 6, 8, -10, 3})) // 3
 }

@@ -41,5 +41,5 @@ func compSame(a, b []int) bool {
 
 func main() {
 	a, b := []int{121, 144, 19, 161, 19, 144, 19, 11}, []int{11 * 21, 121 * 121, 144 * 144, 19 * 19, 161 * 161, 19 * 19, 144 * 144, 19 * 19}
-	fmt.Println(compSame(a, b))
+	fmt.Println(compSame(a, b)) //false
 }

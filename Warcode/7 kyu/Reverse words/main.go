@@ -26,5 +26,5 @@ func ReverseWords(str string) string {
 }
 
 func main() {
-	println(ReverseWords("hello world")) // "olleh dlrow"
+	println(ReverseWords("hello world")) //  "olleh dlrow"
 }
